@@ -1,3 +1,5 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fastrizwaan)
+
 # flatpak-wine-releases
 Binary releases of flatpak-wine
 
